@@ -1,0 +1,6 @@
+Navigation: Home | About | Solutions | Contact
+H1: Privacy Policy
+H2: A Legal Disclaimer
+(Contains Wix template guidance text explaining that this is not legal advice, and to consult counsel.) 
+Sections: Privacy Policy - The Basics; What to Include in the Privacy Policy (generic checklist); Link to Wix article: Creating a Privacy Policy.
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

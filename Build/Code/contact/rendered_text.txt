@@ -1,0 +1,11 @@
+Navigation: Home | About | Solutions | Contact
+H1: Contact
+H2: Contact us
+Form:
+- First name
+- Last name
+- Email* 
+- Phone
+- Message*
+- Submit
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

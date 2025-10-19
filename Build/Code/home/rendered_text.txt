@@ -1,0 +1,12 @@
+Navigation: Home | About | Solutions | Contact
+Hero: Bridging IT security and business success since 2007.
+Lead: Elevate your organization with GRC solutions that protect assets, propel growth, and transform compliance from a requirement into a competitive advantage.
+Section: About Us
+We empower organizations with expert GRC and InfoSec solutions that bridge technical and business perspectives.
+By understanding your unique challenges, we deliver tailored strategies that transform security investments into drivers of organizational success and global competitiveness.
+CTA: LEARN MORE
+Section: Solutions
+IT & IS Governance — Elevate your security posture with strategic planning, ISM program lifecycle management, and risk management programs. We develop governance frameworks and improve processes to align security with your business objectives.
+Enterprise Security Architecture — Build a resilient security ecosystem with our tactical and strategic roadmaps. We offer zero trust advisory, cloud security programs, SCADA & ICS advisory, and DevOps security.
+Regulatory Compliance & Industry Standards — Navigate complex regulations confidently with our compliance services. We provide program development, audit support, and multi-requirement harmonization to keep you compliant and competitive.
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

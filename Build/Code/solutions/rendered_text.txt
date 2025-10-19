@@ -1,0 +1,24 @@
+Navigation: Home | About | Solutions | Contact
+H1: Solutions
+H2: Our services
+IT & IS Governance
+- Strategic planning
+- ISM program lifecycle
+- Risk management programs
+- Governance program lifestyle
+- Process analysis & improvement
+- Policy framework development
+Enterprise Security Architecture
+- Tactical & strategic roadmaps
+- Zero trust advisory
+- Cloud security programs
+- SCADA & ICS advisory
+- DevOps security
+Regulatory Compliance & Industry Standards
+- Program review & development
+- Audit support & management
+- Requirements analysis
+- Remediation management
+- Multi-requirement harmonization
+Body paragraphs describing approach and goals.
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

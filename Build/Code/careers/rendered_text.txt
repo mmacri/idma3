@@ -1,0 +1,13 @@
+Navigation: Home | About | Solutions | Contact
+H1: Join Us
+H2: Open roles
+Copy:
+IDMA3 is always looking for high quality talent to enhance our team. If you have strategic level experience in one or more of our practice areas we would be very interested in reviewing your CV. Please send all inquiries through the form on our contact page.
+At various times IDMA3 will have opportunities for sub-contractors on selected projects, and we are always interested in expanding our list of qualified experts to fill those needs. In particular we are looking for contractors with the following expertise:
+- MS365 and SharePoint Development
+- Web Application Security Testing
+- Virtualization Technical Security
+- Database Security Auditing
+- Web based database front-end development
+CTA: CONTACT
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

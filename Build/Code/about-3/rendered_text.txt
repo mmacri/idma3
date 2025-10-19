@@ -1,0 +1,7 @@
+Navigation: Home | About | Solutions | Contact
+Title: Partners (tab), page content shows:
+H1: About Us
+Section 01: Mission & History (same About copy)
+Section 02: IDMA3 by the Numbers (placeholder stats: “20+ Years of Experience”, “17 Ongoing projects”, “15TB…”, “6+ Locations”)
+Section 03: Careers — placeholder job ads (Aerospace Engineer; Software Engineer - Avionics; Research Scientist - Materials Science) each with Wix APPLY links; location: San Fransisco (typo)
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

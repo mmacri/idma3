@@ -1,0 +1,8 @@
+Navigation: Home | About | Solutions | Contact
+H1: Our Team
+Subhead: Who we are.
+Intro: IDMA3 is led by a team of seasoned experts with over 70 years of combined experience in GRC, information security, and IT governance. Our leaders have spearheaded critical initiatives across diverse sectors, from healthcare and energy to retail and government, both domestically and globally. With a wealth of industry certifications and a deep understanding of complex regulatory landscapes, we bring unparalleled expertise to every client engagement.
+Profile: Judd Dunlap — Founding Partner | Principal Consultant — Summary ends “… Read more.”
+Profile: Jonathan Tranfield — Partner | Principal Consultant — Summary ends “… Read more.”
+Profile: Michele Sager — Partner | Principal Consultant — Summary ends “… Read more.”
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3
