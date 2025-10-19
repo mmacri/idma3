@@ -1,0 +1,33 @@
+Navigation: Home | About | Solutions | Contact
+H1: Solutions
+H2: Our services
+
+IT & IS Governance
+- Strategic planning
+- ISM program lifecycle
+- Risk management programs
+- Governance program lifestyle
+- Process analysis & improvement
+- Policy framework development
+
+Enterprise Security Architecture
+- Tactical & strategic roadmaps
+- Zero trust advisory
+- Cloud security programs
+- SCADA & ICS advisory
+- DevOps security
+
+Regulatory Compliance & Industry Standards
+- Program review & development
+- Audit support & management
+- Requirements analysis
+- Remediation management
+- Multi-requirement harmonization
+
+Body paragraphs:
+- IDMA3 is an established GRC, information and business security consultancy focused on leveraging industry and functional expertise...
+- At IDMA3 our solutions are based on a holistic risk-based approach...
+- Throughout our service offerings the primary goal is to provide clients sound guidance...
+- By identifying where an organization creates value and analyzing potential threats...
+
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

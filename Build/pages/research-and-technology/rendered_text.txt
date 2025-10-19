@@ -1,0 +1,8 @@
+Navigation: Home | About | Solutions | Contact
+Title: Solutions (older version)
+Body: Three explanatory paragraphs (same as /solutions)
+Sections:
+01 — IT & IS Governance (bullets identical to Solutions)
+02 — Enterprise Security Architecture (bullets identical to Solutions)
+03 — Regulatory Compliance & Industry Standards (bullets identical to Solutions)
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

@@ -1,0 +1,2 @@
+Platform: Wix (Thunderbolt runtime). Pages are rendered dynamically via JS bundles hosted on static.parastorage.com and media on static.wixstatic.com.
+Note: Exact 'view-source' HTML and post-JS DOM snapshots require live capture. This package includes accurate page text snapshots and structured metadata.

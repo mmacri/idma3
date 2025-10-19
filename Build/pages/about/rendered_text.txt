@@ -1,0 +1,9 @@
+Navigation: Home | About | Solutions | Contact
+H1: About Us
+H2: Mission & History
+Formed in 2007, IDMA3 has focused on information security and GRC since our inception. Our team members each bring an average of 20+ years of experience, from internal positions at large multinationals and small start-ups, to public sector and consulting positions in Fortune 500 companies.
+We provide expert advice and solutions in areas such as regulatory compliance, all phases of the audit process, information security management programs, vulnerability assessments, security analytics, and enterprise security architecture. Our solutions help secure your organization, mitigate your risk, and make financial sense.
+We understand that the issues facing our clients are complex and constantly changing. Therefore, we take the time to fully understand both the technical and non-technical aspects of all engagements. With insights from IT and business perspectives, our team is uniquely capable of providing the essential bridge to meet today’s IT, security, and governance challenges locally and around the world.
+Prompt: To learn more about our individual team members or explore our current open roles, head to either the Team or Careers page below.
+Buttons: TEAM | CAREERS
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

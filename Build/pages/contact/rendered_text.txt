@@ -1,0 +1,6 @@
+Navigation: Home | About | Solutions | Contact
+H1: Contact
+H2: Contact us
+Form fields: First name, Last name, Email*, Phone, Message*, Submit
+Locations subheading: Seattle | Bend | Atlanta | Madrid | Dublin | Warwick
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3

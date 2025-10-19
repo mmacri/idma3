@@ -1,0 +1,5 @@
+Navigation: Home | About | Solutions | Contact
+Title: Terms of Use Policy (tab)
+Body: Accessibility Statement template with instructions to edit and remove guidance.
+Sections include: What web accessibility is; Accessibility adjustments; Partial compliance note; Accessibility arrangements; Requests, issues and suggestions; Placeholder coordinator details.
+Footer: Seattle, WA | Bend, OR | Atlanta, GA | Madrid, ES | Dublin, IR | Warwick, UK | © 2024 IDMA3
