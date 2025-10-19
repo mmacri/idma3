@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+  <defs>
+    <linearGradient id="noteGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2f63" stop-opacity="0.85"/>
+      <stop offset="60%" stop-color="#0d4f8b" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#0e71b4" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="strokeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7ed9ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#12c6e9" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="glare" cx="82%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#d2f3ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#noteGradient)"/>
+  <rect x="0" y="0" width="640" height="400" fill="url(#glare)"/>
+  <g stroke="url(#strokeGradient)" stroke-opacity="0.65" stroke-width="2.5" fill="none">
+    <path d="M40 290C160 250 200 160 320 140C440 120 520 190 600 160"/>
+    <path d="M60 210C140 240 220 180 320 190C420 200 480 260 580 250"/>
+    <path d="M80 120C170 160 230 120 320 120C410 120 480 170 560 190"/>
+  </g>
+  <g fill="#a9e8ff" fill-opacity="0.8">
+    <circle cx="120" cy="240" r="5"/>
+    <circle cx="210" cy="200" r="5"/>
+    <circle cx="320" cy="220" r="5"/>
+    <circle cx="420" cy="170" r="5"/>
+    <circle cx="520" cy="230" r="5"/>
+    <circle cx="450" cy="280" r="5"/>
+  </g>
+</svg>

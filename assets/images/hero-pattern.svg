@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="gridStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9ed7ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#60a4ff" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glowPatch" cx="70%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#bbecff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#glowPatch)"/>
+  <g stroke="url(#gridStroke)" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <path d="M-100 320C180 200 420 220 720 260C960 290 1120 250 1300 150"/>
+    <path d="M-60 420C200 340 420 340 760 360C1000 370 1190 330 1320 260" opacity="0.75"/>
+    <path d="M-80 200C160 120 400 120 720 180C960 220 1140 210 1320 140" opacity="0.5"/>
+    <path d="M-40 120C220 60 460 80 760 140C1000 190 1170 200 1360 170" opacity="0.45"/>
+  </g>
+  <g fill="#7ad4ff" fill-opacity="0.4">
+    <circle cx="340" cy="210" r="8"/>
+    <circle cx="520" cy="260" r="8"/>
+    <circle cx="780" cy="200" r="8"/>
+    <circle cx="960" cy="300" r="8"/>
+    <circle cx="640" cy="340" r="8"/>
+  </g>
+</svg>
