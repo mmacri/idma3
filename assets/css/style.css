@@ -125,3 +125,33 @@ h1{font-size:2.2rem;margin:.2rem 0 .6rem}
 .solution-card .card-link:hover::after{transform:translateX(3px)}
 .card-icon{width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,rgba(11,106,217,.15),rgba(18,198,233,.35));display:inline-flex;align-items:center;justify-content:center;color:#0b6ad9;position:relative}
 .card-icon::before{content:"";display:block;width:18px;height:10px;border-left:3px solid currentColor;border-bottom:3px solid currentColor;transform:rotate(-45deg);margin-left:2px;margin-bottom:2px}
+
+.solutions-page .site-header{background:linear-gradient(135deg,rgba(6,14,30,.82),rgba(8,18,38,.62));border-bottom:1px solid rgba(255,255,255,.18);box-shadow:none;transition:background .3s ease,box-shadow .3s ease,border-color .3s ease}
+.solutions-page .site-header .container{padding:1rem 1rem}
+.solutions-page .site-header .brand-mark{color:#f3f8ff;background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.32);box-shadow:none}
+.solutions-page .site-header .brand-text{color:#f6fbff}
+.solutions-page .site-header .nav{gap:1.4rem}
+.solutions-page .site-header .nav a{color:#e8f1ff;font-weight:600;position:relative;transition:color .3s ease,background .3s ease}
+.solutions-page .site-header .nav a:hover{background:rgba(255,255,255,.14)}
+.solutions-page .site-header .nav a[aria-current="page"]{color:#7bf1a8}
+.solutions-page .site-header .nav a[aria-current="page"]::after{content:"";position:absolute;left:50%;bottom:-0.55rem;transform:translateX(-50%);width:34px;height:3px;border-radius:999px;background:linear-gradient(90deg,rgba(123,241,168,.85),rgba(92,200,255,.8))}
+.solutions-page .site-header .menu-btn{border-color:rgba(255,255,255,.3);color:#f6fbff}
+.solutions-page .site-header.is-solid{background:rgba(255,255,255,.95);border-bottom:1px solid var(--border);box-shadow:0 20px 45px rgba(19,49,92,.08)}
+.solutions-page .site-header.is-solid .brand-mark{color:#11263f;background:#fff;border-color:rgba(17,38,63,.35);box-shadow:0 6px 12px rgba(19,49,92,.08)}
+.solutions-page .site-header.is-solid .brand-text{color:#11263f}
+.solutions-page .site-header.is-solid .nav a{color:#1c2f4a}
+.solutions-page .site-header.is-solid .nav a:hover{background:rgba(11,106,217,.08)}
+.solutions-page .site-header.is-solid .nav a[aria-current="page"]{color:#0b6ad9}
+.solutions-page .site-header.is-solid .nav a[aria-current="page"]::after{background:linear-gradient(90deg,rgba(11,106,217,.8),rgba(18,198,233,.8));bottom:-0.45rem;width:28px}
+.solutions-page .site-header.is-solid .menu-btn{border-color:rgba(11,106,217,.35);color:#11263f}
+@media (max-width:800px){
+  .solutions-page .site-header .nav{background:rgba(8,18,38,.92);border:1px solid rgba(255,255,255,.18);box-shadow:0 14px 28px rgba(4,10,22,.45)}
+  .solutions-page .site-header.is-solid .nav{background:var(--panel);border:1px solid var(--border);box-shadow:0 12px 24px rgba(19,49,92,.08)}
+}
+
+.solutions-page .page-header{position:relative;padding:4.6rem 0 3.3rem;border-bottom:none;color:#f2f8ff;background:url("../images/solutions-header.png") center/cover no-repeat}
+.solutions-page .page-header::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(5,13,28,.75),rgba(5,18,36,.55));mix-blend-mode:multiply;pointer-events:none}
+.solutions-page .page-header .container{position:relative;z-index:1}
+.solutions-page .page-header h1{color:#f8fbff;font-size:2.75rem}
+.solutions-page .page-header .subhead{color:#7bf1a8}
+.solutions-page .page-header p{color:#dce8ff}
